@@ -1,0 +1,582 @@
+BEGIN:VCALENDAR
+PRODID:fd29_2017_china_country_holidays#holidays@calendarlabs.com
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:China Holidays
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180101
+DTEND;VALUE=DATE:20180102
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267b47d@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180102
+DTEND;VALUE=DATE:20180103
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267b4dc@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day Holiday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:New Year's Day Holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180215
+DTEND;VALUE=DATE:20180216
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267b53c@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/spring-festival.php to know more about Spring Festival Starts. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Spring Festival Starts
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180216
+DTEND;VALUE=DATE:20180217
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267b591@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/chinese-new-year.php to know more about Chinese New Year. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Chinese New Year
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180217
+DTEND;VALUE=DATE:20180218
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267b5cd@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/spring-festival.php to know more about Spring Festival Ends. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Spring Festival Ends
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180308
+DTEND;VALUE=DATE:20180309
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267b607@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/international/international-womens-day.php to know more about Intl. Women's Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Intl. Women's Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180312
+DTEND;VALUE=DATE:20180313
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267b641@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/arbor-day.php to know more about Arbor Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Arbor Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180405
+DTEND;VALUE=DATE:20180406
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267b67b@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/qingming-festival.php to know more about Qingming Festival. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Qingming Festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180501
+DTEND;VALUE=DATE:20180502
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267b6b8@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/uk/may-day.php to know more about Labor Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Labor Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180504
+DTEND;VALUE=DATE:20180505
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267b709@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/national-youth-day.php to know more about National Youth Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:National Youth Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180601
+DTEND;VALUE=DATE:20180602
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267b741@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/international-childrens-day.php to know more about Intl. Children's Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Intl. Children's Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180618
+DTEND;VALUE=DATE:20180619
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267b7b4@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/dragon-boat-festival.php to know more about Dragon Boat Festival. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dragon Boat Festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180701
+DTEND;VALUE=DATE:20180702
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267b807@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/cpc-foundation-day.php to know more about CPC Foundation Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CPC Foundation Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180801
+DTEND;VALUE=DATE:20180802
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267b8f0@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/liberation-army-day.php to know more about Liberation Army Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Liberation Army Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180924
+DTEND;VALUE=DATE:20180925
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267b997@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/mid-autumn-festival.php to know more about Mid-Autumn Festival. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mid-Autumn Festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20181001
+DTEND;VALUE=DATE:20181002
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267b9ed@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/national-day.php to know more about National Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:National Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20181002
+DTEND;VALUE=DATE:20181003
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267ba3c@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/national-day.php to know more about National Day Holiday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:National Day Holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20181008
+DTEND;VALUE=DATE:20181009
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267ba9a@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/national-day.php to know more about National Day Holiday Ends. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:National Day Holiday Ends
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20181225
+DTEND;VALUE=DATE:20181226
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267bb55@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190101
+DTEND;VALUE=DATE:20190102
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267bbbb@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190204
+DTEND;VALUE=DATE:20190205
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267bc11@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/spring-festival.php to know more about Spring Festival Eve. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Spring Festival Eve
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190205
+DTEND;VALUE=DATE:20190206
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267bc68@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/chinese-new-year.php to know more about Chinese New Year. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Chinese New Year
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190206
+DTEND;VALUE=DATE:20190207
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267bcb3@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/spring-festival.php to know more about Spring Festival Holiday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Spring Festival Holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190207
+DTEND;VALUE=DATE:20190208
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267bd6a@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/spring-festival.php to know more about Spring Festival Holiday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Spring Festival Holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267bdad@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/spring-festival.php to know more about Spring Festival Holiday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Spring Festival Holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190209
+DTEND;VALUE=DATE:20190210
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267bdef@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/spring-festival.php to know more about Spring Festival Holiday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Spring Festival Holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190210
+DTEND;VALUE=DATE:20190211
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267be2b@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/spring-festival.php to know more about Spring Festival Holiday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Spring Festival Holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267be94@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/international/international-womens-day.php to know more about Intl. Women's Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Intl. Women's Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190312
+DTEND;VALUE=DATE:20190313
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267bed9@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/arbor-day.php to know more about Arbor Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Arbor Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267bf1f@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/qingming-festival.php to know more about Qingming Festival. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Qingming Festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190501
+DTEND;VALUE=DATE:20190502
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267bf5f@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/uk/may-day.php to know more about Labor Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Labor Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267bf9e@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/national-youth-day.php to know more about National Youth Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:National Youth Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267c007@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/international-childrens-day.php to know more about Intl. Children's Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Intl. Children's Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190607
+DTEND;VALUE=DATE:20190608
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267c043@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/dragon-boat-festival.php to know more about Dragon Boat Festival. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dragon Boat Festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190701
+DTEND;VALUE=DATE:20190702
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267c079@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/cpc-foundation-day.php to know more about CPC Foundation Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CPC Foundation Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267c0c5@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/liberation-army-day.php to know more about Liberation Army Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Liberation Army Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190913
+DTEND;VALUE=DATE:20190914
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267c0fd@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/mid-autumn-festival.php to know more about Mid-Autumn Festival. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mid-Autumn Festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191001
+DTEND;VALUE=DATE:20191002
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267c132@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/national-day.php to know more about National Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:National Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191002
+DTEND;VALUE=DATE:20191003
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267c168@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/national-day.php to know more about National Day Holiday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:National Day Holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191003
+DTEND;VALUE=DATE:20191004
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267c19d@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/national-day.php to know more about National Day Holiday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:National Day Holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191225
+DTEND;VALUE=DATE:20191226
+DTSTAMP:20111213T124028Z
+UID:5bcc7d267c1d4@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:China
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
